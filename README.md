@@ -1,7 +1,3 @@
-Certainly! Based on the provided HTML, CSS, and JavaScript code, here is a README file for your Digital Clock project:
-
----
-
 # Digital Clock
 
 ## Table of Contents
