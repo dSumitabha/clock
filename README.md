@@ -1,4 +1,5 @@
-# Digital Clock
+# Adorable Timepiece
+### A charming and minimalistic digital clock with a dark or a sea-themed backdrop, offering a delightful way to check the time.
 
 ## Table of Contents
 
